@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{username}"/>
+  <img src="https://render.gitanimals.org/farms/{hikeong}"/>
 </a>
